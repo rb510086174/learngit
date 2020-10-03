@@ -5,4 +5,4 @@ di 3 ci xiugai !
 Git has a mutable index called stage.
 
 my stupid boss still prefers SVN .
-
+Creating a new branch is quick & simple.
