@@ -3,3 +3,6 @@ Git is free software.
 Git is a distributed version control system.
 di 3 ci xiugai !
 Git has a mutable index called stage.
+
+my stupid boss still prefers SVN .
+
